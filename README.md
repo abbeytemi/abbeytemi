@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on any front end projects at start up level.
 - 📫 How to reach me ...
+olotinabiodun@gmail.com
 
 <!---
 abbeytemi/abbeytemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
